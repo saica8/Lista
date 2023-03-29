@@ -1,0 +1,269 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="ext" tvg-name="*ES | Movistar Laliga" tvg-logo="http://castlempire.site:8080/images/a2f1368fbe9a33567a9b040b757e615d.png" group-title="LA LIGA ESPAÑA",ES | Movistar Laliga
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/222094
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN LALIGA 1 HD" tvg-logo="http://castlempire.site:8080/images/92e68cf0107e607d2c52c89036569966.png" group-title="LA LIGA ESPAÑA",DAZN LALIGA 1 HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/222693
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN LALIGA 2 HD" tvg-logo="http://castlempire.site:8080/images/92e68cf0107e607d2c52c89036569966.png" group-title="LA LIGA ESPAÑA",DAZN LALIGA 2 HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/222702
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN MOVISTAR 1 SD" tvg-logo="http://castlempire.site:8080/images/a4f9387a28e260a473a8f52f2717816e.png" group-title="LA LIGA ESPAÑA",DAZN MOVISTAR 1 SD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/222086
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES |  LA Liga FHD" tvg-logo="http://castlempire.site:8080/images/59e8fd15b19b9826e37f606ee8f3ff73.png" group-title="LA LIGA ESPAÑA",ES |  LA Liga FHD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/222101
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | GOL TV" tvg-logo="http://castlempire.site:8080/images/da6b5e75a3f4768e0c42ca828ce46912.jpg" group-title="LA LIGA ESPAÑA",ES | GOL TV
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/222102
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | La Liga Smartbank TV opc 2" tvg-logo="http://castlempire.site:8080/images/15b57cb04832a670bf08c5d91ad6dad5.png" group-title="LA LIGA ESPAÑA",ES | La Liga Smartbank TV opc 2
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/222708
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | LA LIGA TV BAR 1 [LIVE-EVENT]" tvg-logo="http://castlempire.site:8080/images/69df4b07d0e2e1bc7b7405bc2b5f6233.jpg" group-title="LA LIGA ESPAÑA",ES | LA LIGA TV BAR 1 [LIVE-EVENT]
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/222080
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | LaLigaTV HD" tvg-logo="http://castlempire.site:8080/images/e97d5f8dc40f24391f39795514d6d5c9.png" group-title="LA LIGA ESPAÑA",ES | LaLigaTV HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/222079
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | M. LALIGA FHD" tvg-logo="http://castlempire.site:8080/images/59e8fd15b19b9826e37f606ee8f3ff73.png" group-title="LA LIGA ESPAÑA",ES | M. LALIGA FHD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/222096
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | Movistar LaLiga HD" tvg-logo="" group-title="LA LIGA ESPAÑA",ES | Movistar LaLiga HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/222093
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN F1 FHD EXTRA\" tvg-logo="http://castlempire.site:8080/images/ca347b7943638427dae040abd9eae6d1.png" group-title="PACK FORMULA 1",DAZN F1 FHD EXTRA\
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/235088
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN F1 FHD EXTRA\" tvg-logo="http://castlempire.site:8080/images/ca347b7943638427dae040abd9eae6d1.png" group-title="PACK FORMULA 1",DAZN F1 FHD EXTRA\
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/235089
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN F1 FHD\" tvg-logo="http://castlempire.site:8080/images/ca347b7943638427dae040abd9eae6d1.png" group-title="PACK FORMULA 1",DAZN F1 FHD\
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/235086
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN F1 SD EXTRA\" tvg-logo="http://castlempire.site:8080/images/ca347b7943638427dae040abd9eae6d1.png" group-title="PACK FORMULA 1",DAZN F1 SD EXTRA\
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/235083
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES |  ATRESERIES INT" tvg-logo="http://castlempire.site:8080/images/c21f969b5f03d33d43e04f8f136e7682.jpg" group-title="CINE",ES |  ATRESERIES INT
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173622
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES |  Divinity HD" tvg-logo="http://castlempire.site:8080/images/871c97742e927a987393145c9a45f038.jpg" group-title="CINE",ES |  Divinity HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173625
+#EXTINF:-1 tvg-ID="energy.es" tvg-name="ES |  Energy HD" tvg-logo="http://castlempire.site:8080/images/2084d1464eaf1aa13eb49c24743adb76.png" group-title="CINE",ES |  Energy HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173626
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES |  FDF HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/FdF_logo.png/revision/latest?cb=20110703083821" group-title="CINE",ES |  FDF HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173627
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES |  Movistar Cine HD" tvg-logo="http://castlempire.site:8080/images/527f262497f0b740b6ca52d043bc9338.jpg" group-title="CINE",ES |  Movistar Cine HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173632
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | #0 FHD" tvg-logo="http://castlempire.site:8080/images/b102a5d3835fe616f1ae432719f1f154.png" group-title="CINE",ES | #0 FHD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173659
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | ALQUILER 2 HD" tvg-logo="http://castlempire.site:8080/images/f828e460110aaddfdfd12666258c71ef.jpg" group-title="CINE",ES | ALQUILER 2 HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173646
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | ALQUILER 3 HD" tvg-logo="http://castlempire.site:8080/images/f828e460110aaddfdfd12666258c71ef.jpg" group-title="CINE",ES | ALQUILER 3 HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173647
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | ALQUILER 5 HD" tvg-logo="http://castlempire.site:8080/images/f828e460110aaddfdfd12666258c71ef.jpg" group-title="CINE",ES | ALQUILER 5 HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173649
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | ALQUILER ALQUIER 6 HD" tvg-logo="http://castlempire.site:8080/images/f828e460110aaddfdfd12666258c71ef.jpg" group-title="CINE",ES | ALQUILER ALQUIER 6 HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173650
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="ES | AMC HD" tvg-logo="https://i.dlpng.com/static/png/4145744-amc-television-show-television-channel-satellite-television-amc-png-900_500_preview.png" group-title="CINE",ES | AMC HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173619
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | ATRESERIES FHD" tvg-logo="http://castlempire.site:8080/images/4dd94898be10245e6d321411f3a7738c.png" group-title="CINE",ES | ATRESERIES FHD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173657
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | ATRESERIES HD" tvg-logo="http://castlempire.site:8080/images/4dd94898be10245e6d321411f3a7738c.png" group-title="CINE",ES | ATRESERIES HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173656
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | ATRESERIES SD" tvg-logo="http://castlempire.site:8080/images/4dd94898be10245e6d321411f3a7738c.png" group-title="CINE",ES | ATRESERIES SD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173658
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="ES | AXN HD" tvg-logo="http://castlempire.site:8080/images/9df9dc140d139200eaefb695973cbb91.png" group-title="CINE",ES | AXN HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173620
+#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="ES | AXN White HD" tvg-logo="http://castlempire.site:8080/images/806b81ebbefca74b87870df1b2a78a53.png" group-title="CINE",ES | AXN White HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173621
+#EXTINF:-1 tvg-ID="calle13.es" tvg-name="ES | Calle 13 HD" tvg-logo="http://castlempire.site:8080/images/eaee5884f5f1c10de2b8891aeefc4ba4.png" group-title="CINE",ES | Calle 13 HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173623
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | CineDoc&Roll FHD" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+series+xtra-01.png" group-title="CINE",ES | CineDoc&Roll FHD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173652
+#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="ES | Comedy Central HD" tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_Black-01.png?height=1024" group-title="CINE",ES | Comedy Central HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173624
+#EXTINF:-1 tvg-ID="fox.es" tvg-name="ES | Fox HD" tvg-logo="http://castlempire.site:8080/images/1f0e2f5fe0136f6a6bfaebc077e1ba6d.png" group-title="CINE",ES | Fox HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173628
+#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="ES | FOX Life HD" tvg-logo="http://castlempire.site:8080/images/2d9102ee2f4eee4a648286168a5503d5.png" group-title="CINE",ES | FOX Life HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173629
+#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="ES | Hollywood HD" tvg-logo="http://castlempire.site:8080/images/d052c3b53c436f6846f409793b478c81.png" group-title="CINE",ES | Hollywood HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173630
+#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="ES | Movistar Accion HD" tvg-logo="http://castlempire.site:8080/images/8ada2ec295516626b78584102321c557.png" group-title="CINE",ES | Movistar Accion HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173631
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | Movistar Comedia HD" tvg-logo="http://castlempire.site:8080/images/55affa621060decf75fcd4fa73550c2d.png" group-title="CINE",ES | Movistar Comedia HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173633
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | MOVISTAR DISNEY" tvg-logo="http://castlempire.site:8080/images/e2b44c8908559da092950702153566ee.png" group-title="CINE",ES | MOVISTAR DISNEY
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173653
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | Movistar Disney+ HD" tvg-logo="http://castlempire.site:8080/images/69d12ecb6105b9d05c60430d0928fa12.jpg" group-title="CINE",ES | Movistar Disney+ HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173654
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | Movistar Disney+ HD ( DUAL AUDIO)" tvg-logo="http://castlempire.site:8080/images/69d12ecb6105b9d05c60430d0928fa12.jpg" group-title="CINE",ES | Movistar Disney+ HD ( DUAL AUDIO)
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173655
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | MOVISTAR Drama FHD" tvg-logo="http://castlempire.site:8080/images/50368a92701848a85645488d26769b8c.jpg" group-title="CINE",ES | MOVISTAR Drama FHD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173660
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | Movistar Estrenos HD" tvg-logo="http://castlempire.site:8080/images/3c2cb700b87231ae33e6d2f1f2548d82.png" group-title="CINE",ES | Movistar Estrenos HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173636
+#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="ES | Movistar Series HD" tvg-logo="http://castlempire.site:8080/images/89ac5847e3b48a71a69bfdf411b3604a.png" group-title="CINE",ES | Movistar Series HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173634
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | Movistar seriesmania HD" tvg-logo="http://castlempire.site:8080/images/d866c3d532c52f34a886aeeed76407e3.png" group-title="CINE",ES | Movistar seriesmania HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173635
+#EXTINF:-1 tvg-ID="neox.es" tvg-name="ES | Neox HD" tvg-logo="http://castlempire.site:8080/images/2b9841c3697f57d19c311b9a8e56ec3c.png" group-title="CINE",ES | Neox HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173639
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | PARAMOUNT CHANNEL HD" tvg-logo="http://castlempire.site:8080/images/d25fa0ae715c2edc2fb1df9bff4b9956.jpg" group-title="CINE",ES | PARAMOUNT CHANNEL HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173651
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | SOMOS FHD" tvg-logo="http://castlempire.site:8080/images/44c68d5df74f953e5809606bc542a90a.png" group-title="CINE",ES | SOMOS FHD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173662
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | SOMOS HD" tvg-logo="http://castlempire.site:8080/images/44c68d5df74f953e5809606bc542a90a.png" group-title="CINE",ES | SOMOS HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173661
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | SUNDANCE HD" tvg-logo="http://castlempire.site:8080/images/484ee1a3e088bfbb5efb51e3a962eb21.jpg" group-title="CINE",ES | SUNDANCE HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173637
+#EXTINF:-1 tvg-ID="syfy.es" tvg-name="ES | SyFy HD" tvg-logo="http://castlempire.site:8080/images/4e4071f4cd28a46f125d77df8521361f.png" group-title="CINE",ES | SyFy HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173640
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | TAQUILLA 2 HD" tvg-logo="http://castlempire.site:8080/images/f828e460110aaddfdfd12666258c71ef.jpg" group-title="CINE",ES | TAQUILLA 2 HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173644
+#EXTINF:-1 tvg-ID="tcm.es" tvg-name="ES | TCM HD" tvg-logo="http://castlempire.site:8080/images/ae7712bb43c2beb35a1415c08b59b38a.png" group-title="CINE",ES | TCM HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173641
+#EXTINF:-1 tvg-ID="tnt.es" tvg-name="ES | TNT HD" tvg-logo="http://castlempire.site:8080/images/9bced7d15a68e61ed4b544972615355c.png" group-title="CINE",ES | TNT HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173638
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | DAZN FORMULA 1 ES" tvg-logo="http://castlempire.site:8080/images/95838c23ed83d39a454d89d8b0d4babd.png" group-title="DEPORTES",ES | DAZN FORMULA 1 ES
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182888
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | DAZN MOVISTAR HD 1" tvg-logo="http://castlempire.site:8080/images/31f100057e542fa1383fee18df1b4608.png" group-title="DEPORTES",ES | DAZN MOVISTAR HD 1
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182883
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | DAZN MOVISTAR HD 2" tvg-logo="http://castlempire.site:8080/images/31f100057e542fa1383fee18df1b4608.png" group-title="DEPORTES",ES | DAZN MOVISTAR HD 2
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182885
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | EUROSPORT" tvg-logo="http://castlempire.site:8080/images/416737342719d5d8a32eddc3e7d58771.jpg" group-title="DEPORTES",ES | EUROSPORT
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182894
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | EUROSPORT 2 FHD" tvg-logo="http://castlempire.site:8080/images/1ec994b0fc0e7844324f2b5d7983fe17.jpg" group-title="DEPORTES",ES | EUROSPORT 2 FHD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182898
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | GOL TV HD" tvg-logo="http://castlempire.site:8080/images/c69101d9f15bbb9f3dd7cb2b2df6f945.png" group-title="DEPORTES",ES | GOL TV HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182900
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | LIGA TV BAR HD" tvg-logo="http://castlempire.site:8080/images/a8c608324068e55d76e0f4b7a3b30c31.png" group-title="DEPORTES",ES | LIGA TV BAR HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182846
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | MOVISTAR  GOLF" tvg-logo="http://castlempire.site:8080/images/c815e8bf60e0ba1da6a282a642cfe02a.png" group-title="DEPORTES",ES | MOVISTAR  GOLF
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182911
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | MOVISTAR  VAMOS FHD" tvg-logo="http://castlempire.site:8080/images/638dab6ea978e1aac3c03f14a9786827.png" group-title="DEPORTES",ES | MOVISTAR  VAMOS FHD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182844
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | MOVISTAR DEPORTES" tvg-logo="http://castlempire.site:8080/images/1afe64dc9e4f19bd0f73083daa94dafc.png" group-title="DEPORTES",ES | MOVISTAR DEPORTES
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182859
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | MOVISTAR DEPORTES 1" tvg-logo="http://castlempire.site:8080/images/26e603f43303a676f26e5df81d049544.png" group-title="DEPORTES",ES | MOVISTAR DEPORTES 1
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182862
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | MOVISTAR DEPORTES 2" tvg-logo="http://castlempire.site:8080/images/26e603f43303a676f26e5df81d049544.png" group-title="DEPORTES",ES | MOVISTAR DEPORTES 2
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182863
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | MOVISTAR DEPORTES HD" tvg-logo="http://castlempire.site:8080/images/1afe64dc9e4f19bd0f73083daa94dafc.png" group-title="DEPORTES",ES | MOVISTAR DEPORTES HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182860
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | MOVISTAR LA LIGA HD" tvg-logo="http://castlempire.site:8080/images/a8386f2de084f8ef3f0838fdeb4b26a9.png" group-title="DEPORTES",ES | MOVISTAR LA LIGA HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182849
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | MOVISTAR LIGA CAMPEONES FHD" tvg-logo="http://castlempire.site:8080/images/9a0c1742b04e9c0be07c04f19eab3437.png" group-title="DEPORTES",ES | MOVISTAR LIGA CAMPEONES FHD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182869
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | MOVISTAR LIGA CAMPEONES HD" tvg-logo="http://castlempire.site:8080/images/9a0c1742b04e9c0be07c04f19eab3437.png" group-title="DEPORTES",ES | MOVISTAR LIGA CAMPEONES HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182868
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 2 FHD" tvg-logo="http://castlempire.site:8080/images/9a0c1742b04e9c0be07c04f19eab3437.png" group-title="DEPORTES",ES | MOVISTAR LIGA DE CAMPEONES 2 FHD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182875
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 3" tvg-logo="http://castlempire.site:8080/images/9a0c1742b04e9c0be07c04f19eab3437.png" group-title="DEPORTES",ES | MOVISTAR LIGA DE CAMPEONES 3
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182876
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | MOVISTAR VAMOS" tvg-logo="http://castlempire.site:8080/images/638dab6ea978e1aac3c03f14a9786827.png" group-title="DEPORTES",ES | MOVISTAR VAMOS
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182842
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | MOVISTAR VAMOS HD" tvg-logo="http://castlempire.site:8080/images/638dab6ea978e1aac3c03f14a9786827.png" group-title="DEPORTES",ES | MOVISTAR VAMOS HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182843
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | REAL MADRID TV HD" tvg-logo="http://castlempire.site:8080/images/3ebecf8b7038e7ef0b1005ef4ec7473f.jpg" group-title="DEPORTES",ES | REAL MADRID TV HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182910
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | TELEDEPORTES" tvg-logo="http://castlempire.site:8080/images/1ebfb345c4a67a4df4c684acc0402952.png" group-title="DEPORTES",ES | TELEDEPORTES
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182902
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES | TOROS TV" tvg-logo="http://castlempire.site:8080/images/9d4d3304b3bd1347879ba38311ccae9d.png" group-title="DEPORTES",ES | TOROS TV
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/182904
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:#0 HD" tvg-logo="" group-title="OTROS",ES:#0 HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173665
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:24 Horas HD" tvg-logo="" group-title="OTROS",ES:24 Horas HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173666
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:AMC HD" tvg-logo="" group-title="OTROS",ES:AMC HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173726
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:AXN HD" tvg-logo="" group-title="OTROS",ES:AXN HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173724
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:AXN WHITE HD" tvg-logo="" group-title="OTROS",ES:AXN WHITE HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173723
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:Be Mad HD" tvg-logo="" group-title="OTROS",ES:Be Mad HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173721
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:BLOOMBERG" tvg-logo="" group-title="OTROS",ES:BLOOMBERG
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173669
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:CALLE 13 HD" tvg-logo="" group-title="OTROS",ES:CALLE 13 HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173719
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:Canal Casa" tvg-logo="" group-title="OTROS",ES:Canal Casa
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173713
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:CANAL COCINA" tvg-logo="" group-title="OTROS",ES:CANAL COCINA
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173716
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:Caza y Pesca HD" tvg-logo="" group-title="OTROS",ES:Caza y Pesca HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173718
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:CLAN TVE" tvg-logo="" group-title="OTROS",ES:CLAN TVE
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173717
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:Comedy Central HD" tvg-logo="" group-title="OTROS",ES:Comedy Central HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173715
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:Cosmo HD" tvg-logo="" group-title="OTROS",ES:Cosmo HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173714
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:CRIME AND INVESTIGATION" tvg-logo="" group-title="OTROS",ES:CRIME AND INVESTIGATION
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173674
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:DISCOVERY CHANNELHD" tvg-logo="" group-title="OTROS",ES:DISCOVERY CHANNELHD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173675
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:Disney Jr" tvg-logo="" group-title="OTROS",ES:Disney Jr
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173712
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:Divinity HD" tvg-logo="" group-title="OTROS",ES:Divinity HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173709
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:Eurosport 1 HD" tvg-logo="" group-title="OTROS",ES:Eurosport 1 HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173700
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:Eurosport 2 HD" tvg-logo="" group-title="OTROS",ES:Eurosport 2 HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173701
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:FDF HD" tvg-logo="" group-title="OTROS",ES:FDF HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173707
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:FOX HD" tvg-logo="" group-title="OTROS",ES:FOX HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173706
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:FOX LIFE HD" tvg-logo="" group-title="OTROS",ES:FOX LIFE HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173705
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:GALICIA TV" tvg-logo="" group-title="OTROS",ES:GALICIA TV
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173678
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:GOL TV" tvg-logo="" group-title="OTROS",ES:GOL TV
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173699
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:HOLLYWOOD HD" tvg-logo="" group-title="OTROS",ES:HOLLYWOOD HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173729
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:IBERALIA TV" tvg-logo="" group-title="OTROS",ES:IBERALIA TV
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173698
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:MADRID TV HD" tvg-logo="" group-title="OTROS",ES:MADRID TV HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173694
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:Mega HD" tvg-logo="" group-title="OTROS",ES:Mega HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173704
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:MEZZO LIVE HD" tvg-logo="" group-title="OTROS",ES:MEZZO LIVE HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173703
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:MOVISTAR ACCION HD" tvg-logo="" group-title="OTROS",ES:MOVISTAR ACCION HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173748
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:MOVISTAR CINE N" tvg-logo="" group-title="OTROS",ES:MOVISTAR CINE N
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173746
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:MOVISTAR COMEDIA HD" tvg-logo="" group-title="OTROS",ES:MOVISTAR COMEDIA HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173682
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:MOVISTAR DEPORTES 2 HD" tvg-logo="" group-title="OTROS",ES:MOVISTAR DEPORTES 2 HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173681
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:Movistar Deportes HD" tvg-logo="" group-title="OTROS",ES:Movistar Deportes HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173697
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:MoviStar ESTRENOS HD" tvg-logo="" group-title="OTROS",ES:MoviStar ESTRENOS HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173745
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:Movistar F\f3rmula 1 HD" tvg-logo="" group-title="OTROS",ES:Movistar F\f3rmula 1 HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173695
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:Movistar Liga de Campeones HD" tvg-logo="" group-title="OTROS",ES:Movistar Liga de Campeones HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173702
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:MOVISTARr GOLF FHD" tvg-logo="" group-title="OTROS",ES:MOVISTARr GOLF FHD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173696
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:NAT GEO WILD HD" tvg-logo="" group-title="OTROS",ES:NAT GEO WILD HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173742
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:NICK JUNIOR" tvg-logo="" group-title="OTROS",ES:NICK JUNIOR
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173741
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:NICKELODEON HD" tvg-logo="" group-title="OTROS",ES:NICKELODEON HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173740
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:ODESEA" tvg-logo="" group-title="OTROS",ES:ODESEA
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173739
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:PANDA" tvg-logo="" group-title="OTROS",ES:PANDA
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173738
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:PARAMOUNT NETWORK" tvg-logo="" group-title="OTROS",ES:PARAMOUNT NETWORK
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173737
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:SYFY HD" tvg-logo="" group-title="OTROS",ES:SYFY HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173735
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:TAQUILLA 2 HD" tvg-logo="" group-title="OTROS",ES:TAQUILLA 2 HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173686
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:TAQUILLA 3 HD" tvg-logo="" group-title="OTROS",ES:TAQUILLA 3 HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173687
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:TAQUILLA 4 HD" tvg-logo="" group-title="OTROS",ES:TAQUILLA 4 HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173688
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:TAQUILLA 6 HD" tvg-logo="" group-title="OTROS",ES:TAQUILLA 6 HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173690
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:TCM HD" tvg-logo="" group-title="OTROS",ES:TCM HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173734
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:Teledeporte HD" tvg-logo="" group-title="OTROS",ES:Teledeporte HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173693
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:TELEMADRID HD" tvg-logo="" group-title="OTROS",ES:TELEMADRID HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173733
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:TNT HD" tvg-logo="" group-title="OTROS",ES:TNT HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173732
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:TOROS HD" tvg-logo="" group-title="OTROS",ES:TOROS HD
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173691
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES:TVE 24H" tvg-logo="" group-title="OTROS",ES:TVE 24H
+http://51.222.47.134:8080/Adriana-IPTV/A5VSgyNT7frB/173692
